@@ -33,7 +33,7 @@ Cardiovascular diseases (CVDs) are responsible for 31% of all global deaths, and
 
 **License:**
 
-This project is licensed under the Database: Open Database, Contents: © Original Authors, allowing for open collaboration and contributions.
+This project is licensed under the Open Data Commons Open Database License (ODbL) v1.0, allowing for open collaboration and contributions.
 
 **Acknowledgments:**
 
