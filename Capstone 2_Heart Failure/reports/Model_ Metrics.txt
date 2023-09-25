@@ -1,24 +1,24 @@
-# Logistic Regression Model Metrics Documentation
+Logistic Regression Model Metrics Documentation
 
-## Model: Logistic Regression
+Model: Logistic Regression
 
-### Model Features
+Model Features
 - Logistic Regression is a linear model used for binary classification tasks.
 - It uses a logistic function to model the probability of a binary outcome.
 
-### Model Parameters (Optimized)
-- **Penalty:** L2
-- **C:** 0.6158
-- **Solver:** liblinear
+Model Parameters (Optimized)
+- Penalty: L2
+- C: 0.6158
+- Solver: liblinear
 
-### Performance Metrics
-- **ROC-AUC Train Score:** 0.9248
-- **ROC-AUC Test Score:** 0.9171
-- **Precision:** 0.8830
-- **Recall:** 0.9143
-- **Accuracy:** 0.8739
+Performance Metrics
+- ROC-AUC Train Score: 0.9248
+- ROC-AUC Test Score: 0.9171
+- Precision: 0.8830
+- Recall: 0.9143
+- Accuracy: 0.8739
 
-## Conclusion
+Conclusion
 - The Logistic Regression model has been optimized with the following hyperparameters:
   - Penalty: L2
   - C: 0.6158
