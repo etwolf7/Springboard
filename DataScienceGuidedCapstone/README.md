@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Big Mountian Resort
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
