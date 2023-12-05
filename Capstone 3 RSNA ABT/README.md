@@ -1,4 +1,4 @@
-# SpringBoard Abdominal Trauma Detection
+# Abdominal Trauma Detection
 
 ## Overview
 
